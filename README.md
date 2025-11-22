@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohansmith&label=Profile%20views&color=0e75b6&style=flat" alt="yohansmith" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yohansmith.github.io/Portfolio](https://yohansmith.github.io/Portfolio)
-
 - 📫 How to reach me **yohandamiansmith@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
