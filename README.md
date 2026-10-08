@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohan Smith</h1>
-<h3 align="center">Data Science Undergraduate at London Metropolitan University | Tech Enthusiast</h3>
+<h3 align="center">Data Science Graduate at London Metropolitan University | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yohansmith&label=Profile%20views&color=0e75b6&style=flat" alt="yohansmith" />
